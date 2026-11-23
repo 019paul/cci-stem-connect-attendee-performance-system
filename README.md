@@ -159,7 +159,7 @@ The purpose of this project is to provide a structured and accessible approach t
 
 ## Author
 
-**CCI STEM Connect Project**
+**Paul Olfunsho**
 
 ## Repository
 
