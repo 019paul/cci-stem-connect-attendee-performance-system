@@ -1,0 +1,6 @@
+﻿attendee_id,attendee_name,category,attendance_rate,session_participation,practical_engagement,teamwork,activities_completed,feedback_score
+DEMO001,Alex Morgan,Student,95,8,9,9,90,9
+DEMO002,Taylor Reed,Student,80,7,8,8,75,8
+DEMO003,Jordan Lee,Mentor,100,9,9,10,95,10
+DEMO004,Casey Brown,Facilitator,90,8,10,9,85,9
+DEMO005,Riley Chen,Student,65,6,6,7,60,7

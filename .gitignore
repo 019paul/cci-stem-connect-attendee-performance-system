@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local data and generated attendee reports may contain personal information.
+/data/
+/outputs/
+
+# Temporary and system files
+*.tmp
+*.temp
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+# Local VS Code settings
+.vscode/
+
+# Streamlit private secrets
+.streamlit/secrets.toml
+
+# Log files
+*.log
